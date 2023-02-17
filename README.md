@@ -19,7 +19,7 @@ Học kỳ 1 Năm 4 Năm học 2022-2023
 
 ### Bộ dữ liệu
 
-- Bộ dữ liệu sử dụng trong báo cáo này có tên là Booking Hotels Dataset được chúng tôi thu thập từ trang web du lịch trực tuyến cho đặt chỗ [booking.com](booking.com). Sử dụng ngôn ngữ lập trình Python kết hợp với hai framework được hỗ trợ mạnh mẽ cho việc cào dữ liệu là Selenium và BeautifulSoup để thu thập thông tin về khách sạn và người dùng. Bộ dữ liệu được thu thập gồm 38,801 dòng dữ liệu và 9 thuộc tính với hơn 4,500 khách sạn thuộc 10 tỉnh/thành phố như: Đà Lạt, Hà Nội, TP. Hồ Chí Minh, . . . và gần 6,500 user khác nhau.
+- Bộ dữ liệu sử dụng trong báo cáo này có tên là Booking Hotels Dataset được chúng tôi thu thập từ trang web du lịch trực tuyến cho đặt chỗ [booking.com](https://www.booking.com/). Sử dụng ngôn ngữ lập trình Python kết hợp với hai framework được hỗ trợ mạnh mẽ cho việc cào dữ liệu là Selenium và BeautifulSoup để thu thập thông tin về khách sạn và người dùng. Bộ dữ liệu được thu thập gồm 38,801 dòng dữ liệu và 9 thuộc tính với hơn 4,500 khách sạn thuộc 10 tỉnh/thành phố như: Đà Lạt, Hà Nội, TP. Hồ Chí Minh, . . . và gần 6,500 user khác nhau.
 - Bộ dữ liệu được chúng tôi công bố tại [Hotel Booking Rating Dataset](https://www.kaggle.com/datasets/phamtheds/hotel-booking-rating-dataset)
 
 
