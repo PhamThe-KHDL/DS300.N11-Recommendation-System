@@ -5,7 +5,7 @@ DS307.N11 - Hệ Khuyến Nghị
 
 Học kỳ 1 Năm 4 Năm học 2022-2023 
 
-## Hotel Recommendation System
+## Final Project - Hotel Recommendation System
 
 **Giảng Viên:** 
 - ThS Nguyễn Văn Kiệt
